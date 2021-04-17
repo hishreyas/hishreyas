@@ -1,13 +1,13 @@
-### Hello 
+### Happy Coding! 
 
 My self Shreyas Prabhakar Bansode  and his account is owned by me.
-I would like collaborate on inovavtive projects which wilk help society and community
-grow.
-Truly Passionated to my work.
-Professional Work
-clean,effecient and reusable code
-Scalable solutions
-Skills :C,C++,Java, Python,JavaScript
+I would like collaborate on inovavtive projects which will help society and community
+to grow.
+### Truly Passionated to my work.
+### Professional Work
+### clean,effecient and reusable code
+### Scalable solutions
+### Skills :C,C++,Java, Python,JavaScript
 
 
 <!--
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...s
+- ⚡ Fun fact: ..
 -->
 
