@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello 
+
+My self Shreyas Prabhakar Bansode  and his account is owned by me.
+I would like collaborate on inovavtive projects which wilk help society and community
+grow.
+Truly Passionated to my work.
+Professional Work
+clean,effecient and reusable code
+Scalable solutions
+Skills :C,C++,Java, Python,JavaScript
+
 
 <!--
 **sanedroid6006/sanedroid6006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
