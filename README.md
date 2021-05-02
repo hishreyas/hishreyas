@@ -1,8 +1,6 @@
 ### Happy Coding! 
 
-'''My self Shreyas Prabhakar Bansode  and this account is owned by me.
-I would like collaborate on inovavtive projects which will help society and community
-to grow.'''
+'''My self Shreyas Prabhakar Bansode'''
 ### Truly Passionated to my work.
 ### Professional Work
 ### clean,effecient and reusable code
