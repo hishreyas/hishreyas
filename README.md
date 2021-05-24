@@ -95,7 +95,7 @@
 <a href="https://www.linkedin.com/in/shreyas-bansode-b41874189">
   <img align="left" alt="Shreyas LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/sanedroid">
+<a href="https://github.com/sanedroid6006">
   <img align="left" alt="Shreyas Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/shreyash_1000/">
