@@ -49,20 +49,7 @@
 </tbody>
 </table>
 
-- **Data Science**
-  - Data Visualization
-  - Data Analysis
- <table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
 
-
-</tr>
-</tbody>
-</table>
 
 ### I'm currently learning :open_book:
 - **Competitive Coding**
