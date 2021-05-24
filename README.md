@@ -15,13 +15,18 @@
 
 
 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
-</td>
    
 <td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/kotlin-vertical.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"> 
 </td>
+  
+  <td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"> 
+</td>
+  
+<td align="center" width="33%">
+
+<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
 
 </td>
 
@@ -32,11 +37,11 @@
 <img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
  
 <td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
 <tr>
  
