@@ -1,5 +1,5 @@
 ### Hello World, I'm Shreyas :purple_heart:
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+<img alt="GIF" src="Adobe_Post_20210122_0046440.943507599402189.png" width = 200/>
 
 -----
 #### Strong hands on Android, PostgreSQL,noSQL,java.
