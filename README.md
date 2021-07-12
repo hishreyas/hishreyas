@@ -1,5 +1,5 @@
 ### Hello World, I'm Shreyas :purple_heart:
-<img alt="Banner" src="sanedroid6006/1625208753140.jpg" width = 400/>
+<img alt="Banner" src="1625208753140.jpg" width = 400/>
 
 -----
 #### Strong hands on Android, PostgreSQL,noSQL,java.
