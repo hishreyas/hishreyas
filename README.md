@@ -92,7 +92,6 @@
   <img align="left" alt="Shreyas Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varan5&show_icons=true&locale=en" alt="varan5" /></p>
 
 </a>
 
