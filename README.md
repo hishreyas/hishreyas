@@ -82,13 +82,13 @@
 </p>
 
 <br> <br>
- <a href="https://twitter.com/bansode_shreyas">
+ <a href="https://twitter.com/hishreyass">
   <img align="left" alt="Shreyas Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/shreyas-bansode-b41874189">
+<a href="https://www.linkedin.com/in/hishreyas">
   <img align="left" alt="Shreyas LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/sanedroid6006">
+<a href="https://github.com/hishreyas">
   <img align="left" alt="Shreyas Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
