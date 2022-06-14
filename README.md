@@ -1,4 +1,4 @@
-<iframe src="https://github.com/sponsors/hishreyas/card" title="Sponsor hishreyas" height="225" width="600" style="border: 0;"></iframe>
+
 
 ### Hello World, I'm Shreyas :purple_heart:
 <img alt="Banner" src="1625208753140.jpg" width = 400/>
